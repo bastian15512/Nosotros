@@ -2,9 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
- 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Page Example</title>
     <style>
         body {
@@ -28,11 +26,9 @@
     </style>
 </head>
 <body>
-    
-    
-<h1>Un año juntos</h1>
+    <h1>Un año juntos</h1>
     <h2>Gracias por tanto, te amo.</h2>
     <p style="text-align: center;">Escaneame :D:</p>
-<img src="https://github.com/bastian15512/Nosotros/raw/main/captura.PNG" alt=Escaneame :D>>
+    <img src="https://github.com/bastian15512/Nosotros/raw/main/captura.png" alt="Escaneame">
 </body>
 </html>
